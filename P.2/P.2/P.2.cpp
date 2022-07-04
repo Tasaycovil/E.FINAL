@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
 	};
 
 	resultados();
-	cout << "La direccion de memoria es: " << diferenciaDistancia(&rootPtr);
+	cout << "La distancia mínima es: " << diferenciaDistancia(&rootPtr);
 	hr();
 
 	return 1;
