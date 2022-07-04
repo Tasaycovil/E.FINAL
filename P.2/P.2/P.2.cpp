@@ -26,7 +26,7 @@ TREE right(TREE nodoRight) {
 }
 
 void resultados() {
-	cout << "\n-----------------------------RESULTADOS-----------------------------" << endl << endl;
+	cout << "\nRESULTADOS" << endl << endl;
 }
 
 void hr() {
